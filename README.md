@@ -1,16 +1,10 @@
 # 💙 ShwDevs — Portfólio
 
-<p align="center">
-  <strong>Design com intenção. Código com propósito.</strong>
-</p>
-
-<p align="center">
-  Portfólio pessoal de Gustavo Leal, estudante de Engenharia de Software, com foco em UI/UX Design e Desenvolvimento Mobile.
-</p>
-
 ## 🌐 Demonstração
 
-Acesse o portfólio: https://shwdevs.netlify.app/
+🔗 **Acesse o portfólio:** https://shwnzzzz.github.io/Shwdevs.com/
+
+<img src="Shwdevs.com.png" width="80%">
 
 ## 👨‍💻 Sobre o projeto
 
@@ -56,7 +50,7 @@ Este portfólio representa minha evolução acadêmica e profissional na Engenha
 
 Estou aberto a novas conexões, oportunidades e projetos.
 
-- **Portfólio:** 
+- **Portfólio:** https://shwnzzzz.github.io/Shwdevs.com/
 - **GitHub:** https://github.com/shwnzzzz
 - **LinkedIn:** https://www.linkedin.com/in/gustavo-leal-b8183a264/
 
