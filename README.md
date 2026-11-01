@@ -1,4 +1,4 @@
-# 💙 ShwDevs — Portfólio
+# 🖥️ ⎯ ShwDevs — Portfólio
 
 ## 🌐 Demonstração
 
